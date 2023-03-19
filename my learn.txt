@@ -1,0 +1,39 @@
+ truffle test
+  
+ truffle console
+ 
+ web3
+//main javascriot library to 
+
+ //show accounts
+ accounts = await web3.eth.getAccounts()
+ accounts
+
+
+ // get blockNumber 
+ blockNumber = await web3.eth.getBlockNumber()
+ blockNumber
+
+ marketplace = Marketplace.deployed()
+ 
+  
+ .exit
+
+ truffle compile
+ 
+ truffle migrate
+  
+  
+ git clone https://github.com/dappuniversity/marketplace.git
+
+
+
+
+ //write this in terminal
+  set NODE_OPTIONS=--openssl-legacy-provider
+ 
+ // this in line 25 in package.json
+"start": "react-scripts --openssl-legacy-provider start",
+
+ 
+ 
